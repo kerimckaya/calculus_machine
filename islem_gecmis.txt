@@ -2,4 +2,4 @@
  Isleminiz : 20 * 40  Islem Sonucunuz :800
  Isleminiz : 50 / 60  Islem Sonucunuz :0.8333333333333334
  Isleminiz : 10 + 20  Islem Sonucunuz :30
- Isleminiz : 5 5 5  Islem Sonucunuz :1.0
+ Isleminiz : 5 / 5  Islem Sonucunuz :1.0
